@@ -2,7 +2,6 @@
 #include <sdktools>
 #include <cstrike>
 #include <socket>
-#include <colorvariables>
 #include <ripext>
 
 #define PLUGIN_NAME           "ChatToSocket"
